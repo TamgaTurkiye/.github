@@ -6,14 +6,15 @@ Tamga, siber savunma araştırmaları, tehdit analizi, yapay zekâ güvenliği, 
 
 Bir dernek, vakıf, resmî kurum veya şirket değil — GitHub üzerinden yürüyen, katkıya açık bir çalışma alanıdır.
 
-### Aktif Repolar
+## Aktif Repolar
 
-| Repo | Odak |
-|---|---|
-| [`cyber-defense-atlas`](../cyber-defense-atlas) | Türkiye bağlamında güncel dijital riskler, sektör notları, savunma checklist'leri |
-| [`malware-threat-analysis`](../malware-threat-analysis) | Malware davranış kalıpları, tehdit sınıfları, savunma/tespit odaklı analiz |
-| `ai-safety-lab` | AI/agent güvenliği, prompt injection farkındalığı, güvenli AI ürün tasarımı *(planlanıyor)* |
-| `crypto-privacy-lab` | Kriptografi, mahremiyet, güvenli ürün geliştirme *(planlanıyor)* |
+| Repo                      | Odak                                                                                                                                                   |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `siber-savunma-atlas`     | Türkiye bağlamında siber savunma notları, sektör riskleri, savunma checklist'leri ve kurumsal düzeyde kullanılabilir açık kaynak güvenlik referansları |
+| `malware-threat-analysis` | Malware davranış kalıpları, ransomware/infostealer/wiper riskleri ve savunma/tespit odaklı tehdit analizi                                              |
+| `ai-safety-lab`           | AI/agent güvenliği, güvenli AI ürün tasarımı, veri sızıntısı önleme, insan onayı ve LLM uygulama güvenliği                                             |
+| `crypto-privacy-lab`      | Kriptografi, mahremiyet, güvenli veri saklama, anahtar yönetimi, TLS, dijital imza ve privacy-by-design prensipleri                                    |
+
 
 ### Nasıl Katkı Verilir
 
