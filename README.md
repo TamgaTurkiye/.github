@@ -15,6 +15,6 @@ Buradaki dosyalar GitHub tarafından otomatik olarak organizasyondaki diğer tü
 
 ## Tamga nedir, ne değildir
 
-Tamga, Türkiye'den çıkan, bağımsız ve açık kaynak bir dijital güvenlik araştırma alanıdır. Resmî bir kurum, dernek, vakıf veya savunma sanayi şirketi değildir. GitHub üzerinden yürür, kaynaklı bilgi üretir, savunma odaklıdır.
+Tamga, Türkiye'den çıkan, bağımsız ve açık kaynak bir dijital güvenlik araştırma alanıdır. Resmî bir kurum, dernek, vakıf veya savunma sanayi şirketi değildir. GitHub ve resmi web sitesi üzerinden yürür, kaynaklı bilgi üretir, savunma odaklıdır.
 
 **Slogan:** *Open-source digital security research, from Türkiye.*
